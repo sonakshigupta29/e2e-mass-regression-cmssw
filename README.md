@@ -1,4 +1,4 @@
-# e2e-mass-regression-cmssw
+
 
 # Particle mass regression for CMS E2E (ML4SCI GSoC test, Tasks 2f and 2g)
 
